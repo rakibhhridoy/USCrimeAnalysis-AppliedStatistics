@@ -1,7 +1,7 @@
-# US Crime Analysis Applied Statistics ```python```
-## This Repo consist of the statistical analysis and applied frequentist and bayesian statistics to transform, manipulate and finding key aspect of crime. It is Based on only two categorical incident.. ```1. murdered 2. Manslaughter by negligence```
+### US Crime Analysis Applied Statistics ```python```
+##### This Repo consist of the statistical analysis and applied frequentist and bayesian statistics to transform, manipulate and finding key aspect of crime. It is Based on only two categorical incident.. ```1. murdered 2. Manslaughter by negligence```
 
-## In this project, we use mostly
+##### In this project, we use mostly
 - ```numpy```        for numerical and mathematical operations
 - ```pandas```       DataFrame Manipulation and Handling
 - ```matplotlib```   Visualizing our Data
@@ -9,7 +9,7 @@
 - ```statsmodel```   Different Statistical Computing
 
 
-## If you don't have those libraries,you can install it by pip
+##### If you don't have those libraries,you can install it by pip
 ```bash
 pip install numpy
 pip install pandas
@@ -18,7 +18,7 @@ pip install seaborn
 pip install statsmodel
 ```
 
-## To use those simply import them in your notebook
+##### To use those simply import them in your notebook
 ```python
 import numpy as np
 import pandas as pd
@@ -31,4 +31,6 @@ import seaborn as sns
 
 
 
-### the project is on going.. 
+##### the project is on going.. 
+
+you can follow me/hire me in [linkedin](https://linkedin.com/in/rakibhhridoy)
